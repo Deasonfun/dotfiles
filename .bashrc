@@ -171,4 +171,6 @@ xterm*|rxvt*)
 esac
 
 eval "$(starship init bash)"
+eval $(thefuck --alias fuck)
 
+eval "$(thefuck --alias)"
