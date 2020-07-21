@@ -13,4 +13,7 @@ sudo apt install zsh
 chsh -s /bin/zsh seeni
 cp .zshrc ~/
 
+#vim
+cp .vimrc ~/
+
 cp .bashrc ~/
